@@ -1,10 +1,10 @@
 # Hi, I'm Ghozi !
 
 <img src="banner-YT.png">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch , a community for women and non-binary ReactJS developers.
+## Who am i :
+I'm a student currently studying computer science, i'm majoring at software engineer but i have interest with artificial intelligence such as machine learning, deep learning, and also big data. I'm actively writing for my article that i publish on my personal website, and also talking in my podcast about technology, book, movie, game, etc.
 
 
 ## Find me around the web 🌎: 
-- Visit me on my personal web at <a href="">mfaisalghozi.com</a> 📹 ✍🏾
-- Also i  <a href=""> Codepen</a> 🏓
-- Sharing updates on <a href=">LinkedIn</a> 💼
+- Visit me on my personal web at <a href="mrafcommand.herokuapp.com">mfaisalghozi</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/faisal-g-a3122b136/">LinkedIn</a>
