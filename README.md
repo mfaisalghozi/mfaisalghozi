@@ -1,7 +1,7 @@
 # Hi, I'm Ghozi !
 
 <img src="banner-YT.png">
-Student who walking a path to Full Stack Developer and Software Engineer
+Student who walking towards to become Full Stack Developer and Software Engineer
 
 
 ## Find me around the web 🌎: 
