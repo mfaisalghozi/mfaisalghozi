@@ -14,9 +14,15 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 - 💻 Currently intership as Software Engineer at [DANA Indonesia](dana) !
 - ⭐ I’m persuing to become Fullstack Developer & Software Engineer.
-- 👯 I’m looking to collaborate with other developer & content creator.
-- 🥅 2021 Goals: more contribute to open souce.
+- 👯 Looking to collaborate with other developer & content creator.
+- 🏆 2021 Goals: more contribute to open souce.
 - 📚 Fun fact: I love to reading, playing games, and listen to classical music.
+
+[<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
+[<img align="left" alt="mfaisalghozi" | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="mfaisalghozi" | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
 
 [website]: https://mrafcommand.herokuapp.com/
 [dana]: https://www.dana.id/
+[linkedin]: https://www.linkedin.com/in/faisal-g-a3122b136/
+[twitter]: https://twitter.com/Mfaisalghozi
