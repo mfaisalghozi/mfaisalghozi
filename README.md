@@ -1,4 +1,4 @@
-# Hi ![Alt Text](https://emoji.gg/assets/emoji/wavegif_1860.gif), I'm Ghozi !
+# Hi ![Alt Text](https://emoji.gg/assets/emoji/wavegif_1860.gif =250x250), I'm Ghozi !
 
 <img src="banner-YT.png">
 Student who walking towards to become Full Stack Developer and Software Engineer
