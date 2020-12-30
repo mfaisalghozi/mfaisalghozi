@@ -33,8 +33,14 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 ### Language and Tools:
 
+### Front-End Stuff :
+
+### Back-End Stuff :
+
+### Others :
+
 [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="visual studio code" width="26px" style="margin-left:5px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
