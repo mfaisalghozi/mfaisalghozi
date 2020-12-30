@@ -20,19 +20,6 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 - 🏆 2021 Goals: more contribute to open souce.
 - 📚 Fun fact: I love to reading, playing games, and listen to classical music.
 
-### Find me on:
-
-[<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="mfaisalghozi | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-
-<br />
-<p align=center>
-    <em>Dont forget to say Hi!</em>
-</p>
-
----
-
 ## Language And Tools
 
 ### Front-End Stuff :
@@ -124,6 +111,19 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 <a href="https://github.com/mfaisalghozi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mfaisalghozi&layout=compact&theme=radical" />
 </a>
+
+---
+
+### Find me on:
+
+[<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
+[<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="mfaisalghozi | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+
+<br />
+<p align=center>
+    <em>Dont forget to say Hi!</em>
+</p>
 
 ---
 
