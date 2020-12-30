@@ -34,6 +34,17 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 ### Front-End Tech :
 
+![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=html5&logoColor=E44D26)
+![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=css3&logoColor=2565AE)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript&logoColor=ddc508)
+![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=typescript&logoColor=007ACC)
+![React](https://img.shields.io/badge/-React-fff?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next-fff?logo=Next.js&logoColor=000)
+![Material_UI](https://img.shields.io/badge/-Material_UI-fff?&logo=material-ui&logoColor=1769aa)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=bootstrap&logoColor=7952B3)
+![SCSS](https://img.shields.io/badge/-SCSS-fff?&logo=SASS)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-fff?&logo=tailwind-css)
+![Styled Components](https://img.shields.io/badge/-%F0%9F%92%85%20styled--components-fff.svg?colorB=fff)
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -61,6 +72,14 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 ### Back-End Tech :
 
+![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=laravel)
+![Nodejs](https://img.shields.io/badge/-Nodejs-fff?&logo=Node.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-fff?&logo=nestjs&logoColor=E0234E)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=336791)
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
@@ -82,6 +101,9 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 ### Other :
 
+![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=heroku&logoColor=591DB1)
+![Netlify](https://img.shields.io/badge/-Netlify-fff?&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-fff?&logo=vercel&logoColor=000)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
