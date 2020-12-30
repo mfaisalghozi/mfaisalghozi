@@ -111,18 +111,8 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 [<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="mfaisalghozi | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="mfaisalghozi | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
-[<img align="left" alt="mfaisalghozi | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />][stackoverflow]
-[<img align="left" alt="mfaisalghozi | Dev" height="22px" src="./SocialLogo/Dev.png" />][dev]
-[<img align="left" alt="mfaisalghozi | Quora" height="22px" src="./SocialLogo/Quora.png" />][quora]
-[<img align="left" alt="mfaisalghozi | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="mfaisalghozi | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="mfaisalghozi | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="mfaisalghozi | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="mfaisalghozi | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="mfaisalghozi | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
 [<img align="left" alt="mfaisalghozi | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="mfaisalghozi | Flipboard" height="22px" src="./SocialLogo/Flipboard.png" />][flipboard]
+![](https://visitor-badge.glitch.me/badge?page_id=mfaisalghozi.mfaisalghozi)
 
 <br />
 <p align=center>
@@ -140,13 +130,8 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 ---
 
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=mfaisalghozi.mfaisalghozi" alt="Visitors">                     
-</p>
-
----
-
 [website]: https://mrafcommand.herokuapp.com/
 [dana]: https://www.dana.id/
 [linkedin]: https://www.linkedin.com/in/faisal-g-a3122b136/
 [twitter]: https://twitter.com/Mfaisalghozi
+[instagram]: https://www.instagram.com/mfaisalghozi/
