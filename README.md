@@ -106,7 +106,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
-## Find me <img src="https://images.emojiterra.com/google/android-10/512px/1f9d1.png" height="22"
+## Find me <img src="https://images.emojiterra.com/google/android-10/512px/1f9d1.png" height="22" />
 
 [<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
