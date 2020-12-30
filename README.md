@@ -12,11 +12,13 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 ## I'm a Computer Science Student from Indonesia :indonesia:!
 
+:indonesia:
+
 - 💻 Currently intership as Software Engineer at [DANA Indonesia](dana) !
 - ⭐ I’m persuing to become Fullstack Developer & Software Engineer.
 - 👯 I’m looking to collaborate with other developer & content creator.
 - 🥅 2021 Goals: more contribute to open souce.
-- ⚡ Fun fact: I love to reading, playing games, and listen to classical music.
+- 📚 Fun fact: I love to reading, playing games, and listen to classical music.
 
 [website]: https://mrafcommand.herokuapp.com/
 [dana]: https://www.dana.id/
