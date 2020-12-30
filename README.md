@@ -19,8 +19,8 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 - 📚 Fun fact: I love to reading, playing games, and listen to classical music.
 
 [<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="mfaisalghozi" | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="mfaisalghozi" | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="mfaisalghozi | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
 
 [website]: https://mrafcommand.herokuapp.com/
 [dana]: https://www.dana.id/
