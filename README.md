@@ -106,18 +106,15 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
-## Find me <img src="https://images.emojiterra.com/google/android-10/512px/1f9d1.png" height="22" />
+## Find me on <img src="https://images.emojiterra.com/google/android-10/512px/1f9d1.png" height="22" />
 
 [<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="mfaisalghozi | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
 
 <br />
-<p align=left>
+<p align=center>
     <em>Dont forget to say Hi!</em>
-</p>
-<p align=left>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=mfaisalghozi.mfaisalghozi" alt="Visitors">                     
 </p>
 
 ---
@@ -128,6 +125,14 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 <a href="https://github.com/mfaisalghozi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mfaisalghozi&layout=compact&theme=radical" />
 </a>
+
+---
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=mfaisalghozi.mfaisalghozi" alt="Visitors">                     
+</p>
+
+---
 
 [website]: https://mrafcommand.herokuapp.com/
 [dana]: https://www.dana.id/
