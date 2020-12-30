@@ -18,9 +18,18 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 - 🏆 2021 Goals: more contribute to open souce.
 - 📚 Fun fact: I love to reading, playing games, and listen to classical music.
 
+### Find me:
+
 [<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="mfaisalghozi | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+
+<br />
+<p align=center>
+    <em>Dont forget to say Hi!</em>
+</p>
+
+---
 
 [website]: https://mrafcommand.herokuapp.com/
 [dana]: https://www.dana.id/
