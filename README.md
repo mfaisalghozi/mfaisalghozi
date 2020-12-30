@@ -116,7 +116,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 <p align=left>
     <em>Dont forget to say Hi!</em>
 </p>
-<p align=center>                           
+<p align=left>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=mfaisalghozi.mfaisalghozi" alt="Visitors">                     
 </p>
 
