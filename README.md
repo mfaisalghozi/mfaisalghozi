@@ -116,6 +116,14 @@ Student who walking towards to become Full Stack Developer and Software Engineer
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mfaisalghozi&layout=compact&theme=radical" />
 </a>
 
+---
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=mfaisalghozi.mfaisalghozi" alt="Visitors">                     
+</p>
+
+---
+
 [website]: https://mrafcommand.herokuapp.com/
 [dana]: https://www.dana.id/
 [linkedin]: https://www.linkedin.com/in/faisal-g-a3122b136/
