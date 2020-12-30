@@ -12,11 +12,11 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 ## I'm a Computer Science Student from Indonesia <img src="https://emoji-pics.s3.us-east-2.amazonaws.com/emoji-pics/messenger/indonesia-messenger.png" height="22" />
 
-- 💻 Currently intership as Software Engineer at [DANA Indonesia][dana] !
+- 💻 Currently intership as Software Engineer at [DANA Indonesia][dana].
 - ⭐ I’m persuing to become Fullstack Developer & Software Engineer.
 - 👯 Looking to collaborate with other developer & content creator.
 - 🏆 2021 Goals: more contribute to open souce.
-- 📚 Fun fact: I love to reading, playing games, and listen to classical music.
+- 📚 Fun fact: I love to read, games, and listen to classical music.
 
 ## Language And Tools <img src="https://hotemoji.com/images/dl/d/man-technologist-emoji-by-google.png" height="22" />
 
