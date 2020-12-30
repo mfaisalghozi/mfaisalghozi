@@ -20,7 +20,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 - 🏆 2021 Goals: more contribute to open souce.
 - 📚 Fun fact: I love to reading, playing games, and listen to classical music.
 
-### Find me:
+### Find me on:
 
 [<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
@@ -36,10 +36,6 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 ### Language and Tools:
 
 ### Front-End Stuff :
-
-### Back-End Stuff :
-
-### Others :
 
 [<code>
 <img alt="visual studio code" width="26px" style="margin-left:5px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -65,6 +61,9 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 [<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
+
+### Back-End Stuff :
+
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -101,7 +100,9 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
+
+### Others :
+
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
