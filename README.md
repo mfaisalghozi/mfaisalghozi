@@ -107,6 +107,15 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
+---
+
+<a href="https://github.com/mfaisalghozi">
+<img align="center" alt="ghozi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mfaisalghozi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/mfaisalghozi">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mfaisalghozi&layout=compact&theme=radical" />
+</a>
+
 [website]: https://mrafcommand.herokuapp.com/
 [dana]: https://www.dana.id/
 [linkedin]: https://www.linkedin.com/in/faisal-g-a3122b136/
