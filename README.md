@@ -12,7 +12,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 ## I'm a Computer Science Student from Indonesia :indonesia:!
 
-:indonesia:
+Flag:indonesia:
 
 - 💻 Currently intership as Software Engineer at [DANA Indonesia](dana) !
 - ⭐ I’m persuing to become Fullstack Developer & Software Engineer.
