@@ -10,8 +10,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 # <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hi there, I'm [M Faisal Ghozi][website]
 
-## I'm a Computer Science Student from Indonesia <img src="https://emoji-pics.s3.us-east-2.amazonaws.com/emoji-pics/messenger/indonesia-messenger.png" height="22" />
-
+- <img src="https://emoji-pics.s3.us-east-2.amazonaws.com/emoji-pics/messenger/indonesia-messenger.png" height="18" /> I'm a Computer Science Student from Indonesia 
 - 💻 Currently intership as Software Engineer at [DANA Indonesia][dana].
 - ⭐ I’m persuing to become Fullstack Developer & Software Engineer.
 - 👯 Looking to collaborate with other developer & content creator.
