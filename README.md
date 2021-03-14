@@ -15,7 +15,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 - ⭐ I’m persuing to become Fullstack Developer & Software Engineer.
 - 👯 Looking to collaborate with other developer & content creator.
 - 🏆 2021 Goals: more contribute to open souce.
-- 📚 Fun fact: I love to read, games, and listen to classical music.
+- 📚 Fun fact: I love to read, games, and listen to music.
 
 ## Language And Tools <img src="https://hotemoji.com/images/dl/d/man-technologist-emoji-by-google.png" height="22" />
 
