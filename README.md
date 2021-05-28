@@ -8,7 +8,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 - Visit me on my personal web at <a href="https://mrafcommand.herokuapp.com/">mfaisalghozi</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/faisal-g-a3122b136/">LinkedIn</a> -->
 
-# <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> Hi there, I'm M Faisal Ghozi
+# <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" height="32" /> Hi there, I'm M Faisal Ghozi
 
 - <img src="https://emoji-pics.s3.us-east-2.amazonaws.com/emoji-pics/messenger/indonesia-messenger.png" height="18" /> I'm a Computer Science Student from Indonesia 
 - 💻 Currently intership as Software Engineer at [DANA Indonesia][dana].
@@ -100,9 +100,6 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 </p>
 
 ---
-
-<a href="https://github.com/mfaisalghozi">
-<img align="center" alt="ghozi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mfaisalghozi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 <a href="https://github.com/mfaisalghozi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mfaisalghozi&layout=compact&theme=radical" />
