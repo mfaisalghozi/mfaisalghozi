@@ -10,11 +10,11 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 # <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" height="32" /> Hi there, I'm M Faisal Ghozi
 
-- <img src="https://emoji-pics.s3.us-east-2.amazonaws.com/emoji-pics/messenger/indonesia-messenger.png" height="18" /> I'm a Computer Science Student from Indonesia 
-- 💻 Currently intership as Software Engineer at [DANA Indonesia][dana].
+- 🇮🇩 I'm a Computer Science Student from Indonesia 
+- 💻 Currently work as Software Engineer at [DANA Indonesia][dana].
 - ⭐ I’m persuing to become Fullstack Developer & Software Engineer.
 - 👯 Looking to collaborate with other developer & content creator.
-- 🏆 2021 Goals: more contribute to open souce.
+- 🏆 2022 Goals: more contribute to open souce.
 - 📚 Fun fact: I love to read, games, and listen to music.
 
 ## Language And Tools <img src="https://hotemoji.com/images/dl/d/man-technologist-emoji-by-google.png" height="22" />
