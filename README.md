@@ -12,7 +12,6 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 
 - 🇮🇩 I'm a Computer Science Student from Indonesia 
 - 💻 Currently work as Software Engineer at [DANA Indonesia][dana].
-- ⭐ I’m persuing to become Fullstack Developer & Software Engineer.
 - 👯 Looking to collaborate with other developer & content creator.
 - 🏆 2022 Goals: more contribute to open souce.
 - 📚 Fun fact: I love to read, games, and listen to music.
@@ -22,7 +21,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 ### IDE :
 
 [<code>
-<img alt="visual studio code" width="26px" style="margin-left:5px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+<img alt="visual studio code" width="26px"  src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
