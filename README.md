@@ -11,9 +11,9 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 # <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" height="32" /> Hi there, I'm M Faisal Ghozi
 
 - 💻 Currently work as Software Engineer at [DANA Indonesia][dana].
-- 👯 Looking to collaborate with other developer & content creator.
-- 🏆 2023 Goals: more contribute to open souce.
-- 📚 Fun fact: I love to read, games, and listen to music.
+- 👯 Looking to collaborate with other developers & content creators.
+- 🏆 2024 Goals: Contribute more to my company & Open Source Community
+- 📚 Fun fact: I love to read, playing games & listen to music.
 
 ## Language And Tools <img src="https://hotemoji.com/images/dl/d/man-technologist-emoji-by-google.png" height="22" />
 
@@ -23,14 +23,21 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 ### Front-End Tech :
 - HTML5
 - CSS, LESS, SASS
+- Python
 - Javascript & Typescript
 - Vue & React
-- Webpack
+- Webpack, Docker, Jenkins
+- Jest
 
 ### Back-End Tech :
 - Node JS
 - JAVA
 - MySql
+
+### Misc :
+- Iterm2
+- Terminal
+- Postman
   
 
 
