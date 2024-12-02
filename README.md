@@ -13,7 +13,7 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 - 💻 Currently work as Software Engineer at [DANA Indonesia][dana].
 - 👯 Looking to collaborate with other developers & content creators.
 - 🏆 2024 Goals: Contribute more to my company & Open Source Community
-- 📚 Fun fact: I love to read, playing games & listen to music.
+- 📚 Fun fact: I love to read, play games & listen to music.
 
 ## Language And Tools <img src="https://hotemoji.com/images/dl/d/man-technologist-emoji-by-google.png" height="22" />
 
@@ -26,13 +26,14 @@ Student who walking towards to become Full Stack Developer and Software Engineer
 - Python
 - Javascript & Typescript
 - Vue & React
+- Nuxt (Vue Framework)
 - Webpack, Docker, Jenkins
 - Jest
 
 ### Back-End Tech :
 - Node JS
 - JAVA
-- MySql
+- MySql, MongoDB
 
 ### Misc :
 - Iterm2
