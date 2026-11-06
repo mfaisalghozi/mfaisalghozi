@@ -74,6 +74,12 @@ Software Development Engineer** — five years growing into ownership of the pay
 - QS World University Rankings 2026 — BINUS is the **top private university in Indonesia**
   (ranked 851–950 globally)
 
+**While studying**
+
+- **Google Developer Student Clubs (DSC) 2022** — program member
+- **Falcon Gaming Community** — Bot Developer
+- **Hackathon SoCS 2022** — participant
+
 ---
 
 ## Background
