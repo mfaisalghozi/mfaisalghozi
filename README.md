@@ -22,8 +22,8 @@ DANA app.
 
 The web surfaces I build and maintain serve **more than 10 million page views per day**, and are
 **one of the highest-traffic web surfaces inside the DANA app**. That scale is the constraint I
-design against: performance budgets on low-end Android WebViews, release safety in a payment
-context, and code that a rotating team can still read a year later.
+design against: web performance measured with **Lighthouse and Core Web Vitals** (LCP, INP, TTFB,
+CLS), release safety in a payment context, and code that a rotating team can still read a year later.
 
 I work end-to-end with **Product Design, Project Management, Backend, and QA** across the full
 software development lifecycle in an agile delivery model — from design handoff and technical
@@ -36,8 +36,9 @@ breakdown, through implementation and code review, to release, monitoring, and i
 - **10M+ page views per day** — one of the highest-traffic web surfaces in the DANA app
 - **Payment-critical ownership** — cashier flows and transaction pages where a regression costs
   real money, not just a bad review
-- **Performance budget discipline** — measured work on LCP, INP, CLS and TTI for WebView on
-  low-end Android devices: asset strategy, caching, and main-thread work
+- **Web performance engineering** — Lighthouse and Core Web Vitals as the working method. LCP, INP,
+  TTFB and CLS measured before and after each change, on the WebView and devices users actually
+  hold: asset strategy, caching, critical path, and main-thread work
 - **Release quality gates** — Jenkins pipelines and SonarQube checks wired into the delivery flow,
   so quality is enforced by the process rather than by memory
 - **Measured, flag-gated releases** — Mixpanel for product analytics, Harness Split for feature
@@ -49,7 +50,7 @@ breakdown, through implementation and code review, to release, monitoring, and i
 
 ## Experience
 
-**DANA Indonesia** · Jakarta · *March 2021 – Present*
+**DANA Indonesia** · Jakarta, Indonesia · *March 2021 – Present*
 
 Progression inside DANA: **Software Engineer Intern → Associate Software Engineer →
 Software Development Engineer** — five years growing into ownership of the payment surface.
@@ -58,8 +59,7 @@ Software Development Engineer** — five years growing into ownership of the pay
 
 - Build and maintain the H5 cashier and transaction surfaces used across the DANA app
 - Own frontend architecture on the payment stack: Vue 3 (Options + Composition API), Vuex, TypeScript
-- Drive WebView performance work — profiling, performance budgets, and fixes that hold up on
-  low-end devices and slow networks
+- Web performance work with Lighthouse and Core Web Vitals — LCP, INP, TTFB, CLS
 - Work inside an agile SDLC: sprint planning, technical breakdown, code review, release, monitoring
 - Collaborate with Product Design, PM, Backend and QA from discovery to production
 
@@ -100,6 +100,9 @@ account. Most of it is older than the payment work above and is kept for the rec
 
 **Frontend**
 `Vue 3` (primary) · `Nuxt` · `React` · `TypeScript` · `JavaScript` · `Vuex` · `HTML5` · `CSS / SCSS / LESS` · `Webpack`
+
+**Web performance**
+`Lighthouse` · `Core Web Vitals (LCP / INP / TTFB / CLS)` · asset & caching strategy · WebView profiling
 
 **Backend**
 `Node.js` · `Java` · `MySQL` · `MongoDB`
