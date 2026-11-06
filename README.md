@@ -2,7 +2,7 @@
 
 # M Faisal Ghozi
 
-**Software Engineer — Payment Infrastructure**
+**Software Development Engineer — Payment Infrastructure**
 DANA Indonesia · Jakarta, Indonesia
 
 [![Website](https://img.shields.io/badge/mfaisalghozi.id-0a0e15?style=flat-square&logo=googlechrome&logoColor=white)](https://www.mfaisalghozi.id)
@@ -49,8 +49,12 @@ breakdown, through implementation and code review, to release, monitoring, and i
 
 ## Experience
 
-**Software Engineer — Payment Infrastructure**
 **DANA Indonesia** · Jakarta · *March 2021 – Present*
+
+Progression inside DANA: **Software Engineer Intern → Associate Software Engineer →
+Software Development Engineer** — five years growing into ownership of the payment surface.
+
+*Software Development Engineer — Payment Infrastructure* (current)
 
 - Build and maintain the H5 cashier and transaction surfaces used across the DANA app
 - Own frontend architecture on the payment stack: Vue 3 (Options + Composition API), Vuex, TypeScript
@@ -58,6 +62,17 @@ breakdown, through implementation and code review, to release, monitoring, and i
   low-end devices and slow networks
 - Work inside an agile SDLC: sprint planning, technical breakdown, code review, release, monitoring
 - Collaborate with Product Design, PM, Backend and QA from discovery to production
+
+---
+
+## Education
+
+**BINUS University** — Computer Science · Jakarta · *Graduated 2022*
+
+- QS World University Rankings by Subject 2026 — **Computer Science & Information Systems:
+  #301–350 worldwide, #2 in Indonesia**
+- QS World University Rankings 2026 — BINUS is the **top private university in Indonesia**
+  (ranked 851–950 globally)
 
 ---
 
