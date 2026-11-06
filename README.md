@@ -1,69 +1,110 @@
-<!-- # Hi ![Alt Text](https://emoji.gg/assets/emoji/wavegif_1860.gif), I'm Ghozi !
+<div align="center">
 
-<img src="banner-YT.png">
-Student who walking towards to become Full Stack Developer and Software Engineer
+# M Faisal Ghozi
 
+**Software Engineer — Payment Infrastructure**
+DANA Indonesia · Jakarta, Indonesia
 
-## Find me around the web 🌎:
-- Visit me on my personal web at <a href="https://mrafcommand.herokuapp.com/">mfaisalghozi</a>
-- Sharing updates on <a href="https://www.linkedin.com/in/faisal-g-a3122b136/">LinkedIn</a> -->
+[![Website](https://img.shields.io/badge/mfaisalghozi.id-0a0e15?style=flat-square&logo=googlechrome&logoColor=white)](https://www.mfaisalghozi.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-g-a3122b136/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Mfaisalghozi)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mfaisalghozi/)
 
-# <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" height="32" /> Hi there, I'm M Faisal Ghozi
-
-- 💻 Currently work as Software Engineer at [DANA Indonesia][dana].
-- 👯 Looking to collaborate with other developers & content creators.
-- 🏆 2024 Goals: Contribute more to my company & Open Source Community
-- 📚 Fun fact: I love to read, play games & listen to music.
-
-## Language And Tools <img src="https://hotemoji.com/images/dl/d/man-technologist-emoji-by-google.png" height="22" />
-
-### IDE : 
-- Visual Studio Code
-
-### Front-End Tech :
-- HTML5
-- CSS, LESS, SASS
-- Python
-- Javascript & Typescript
-- Vue & React
-- Nuxt (Vue Framework)
-- Webpack, Docker, Jenkins
-- Jest
-
-### Back-End Tech :
-- Node JS
-- JAVA
-- MySql, MongoDB
-
-### Misc :
-- Iterm2
-- Terminal
-- Postman
-  
-
-
-## Find me on <img src="https://images.emojiterra.com/google/android-10/512px/1f9d1.png" height="22" />
-
-[<img align="left" alt="mfaisalghozi" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="mfaisalghozi | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="mfaisalghozi | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="mfaisalghozi | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-
-<br />
-<p align=center>
-    <em>Dont forget to say Hi!</em>
-</p>
+</div>
 
 ---
 
-<a href="https://github.com/mfaisalghozi">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mfaisalghozi&layout=compact&theme=radical" />
-</a>
+## Summary
+
+Software engineer with **5 years** building production web applications, currently owning the
+**H5 payment infrastructure** at DANA Indonesia — the cashier and transaction surfaces inside the
+DANA app.
+
+The web surfaces I build and maintain serve **more than 10 million page views per day**, and are
+**one of the highest-traffic web surfaces inside the DANA app**. That scale is the constraint I
+design against: performance budgets on low-end Android WebViews, release safety in a payment
+context, and code that a rotating team can still read a year later.
+
+I work end-to-end with **Product Design, Project Management, Backend, and QA** across the full
+software development lifecycle in an agile delivery model — from design handoff and technical
+breakdown, through implementation and code review, to release, monitoring, and incident follow-up.
 
 ---
 
-[website]: https://mrafcommand.herokuapp.com/
-[dana]: https://www.dana.id/
-[linkedin]: https://www.linkedin.com/in/faisal-g-a3122b136/
-[twitter]: https://twitter.com/Mfaisalghozi
-[instagram]: https://www.instagram.com/mfaisalghozi/
+## Impact
+
+- **10M+ page views per day** — one of the highest-traffic web surfaces in the DANA app
+- **Payment-critical ownership** — cashier flows and transaction pages where a regression costs
+  real money, not just a bad review
+- **Performance budget discipline** — measured work on LCP, INP, CLS and TTI for WebView on
+  low-end Android devices: asset strategy, caching, and main-thread work
+- **Release quality gates** — Jenkins pipelines and SonarQube checks wired into the delivery flow,
+  so quality is enforced by the process rather than by memory
+- **Cross-functional delivery** — daily collaboration with Product Design, PM, Backend and QA,
+  translating design intent into implementation that survives real devices and real networks
+
+---
+
+## Experience
+
+**Software Engineer — Payment Infrastructure**
+**DANA Indonesia** · Jakarta · *March 2021 – Present*
+
+- Build and maintain the H5 cashier and transaction surfaces used across the DANA app
+- Own frontend architecture on the payment stack: Vue 3 (Options + Composition API), Vuex, TypeScript
+- Drive WebView performance work — profiling, performance budgets, and fixes that hold up on
+  low-end devices and slow networks
+- Work inside an agile SDLC: sprint planning, technical breakdown, code review, release, monitoring
+- Collaborate with Product Design, PM, Backend and QA from discovery to production
+
+---
+
+## Background
+
+**Freelance Web Developer** — Falcon ID
+Client web work delivered end to end: requirements, implementation, deployment.
+
+Plus a steady stream of side projects and college projects — the usual path, kept public on this
+account. Most of it is older than the payment work above and is kept for the record.
+
+---
+
+## Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [oma-app](https://github.com/mfaisalghozi/oma-app) | Ocean Match Apps — mobile app | Dart / Flutter |
+| [fcc-dashboard](https://github.com/mfaisalghozi/fcc-dashboard) | Financial Crime Compliance dashboard · [live](https://fcc-dashboard-gamma.vercel.app) | Vue |
+| [mfaisalghozi-id](https://github.com/mfaisalghozi/mfaisalghozi-id) | Personal site · [live](https://www.mfaisalghozi.id) | TypeScript |
+
+---
+
+## Skills
+
+**Frontend**
+`Vue 3` · `Nuxt` · `React` · `TypeScript` · `JavaScript` · `Vuex` · `HTML5` · `CSS / SCSS / LESS` · `Webpack`
+
+**Backend**
+`Node.js` · `Java` · `MySQL` · `MongoDB`
+
+**Delivery & quality**
+`Jenkins` · `SonarQube` · `Docker` · `Git` · `Jest` · `Agile / Scrum` · `Code review` · `Performance budgets`
+
+**Practices**
+Full SDLC ownership · cross-functional collaboration (Design, PM, BE, QA) · WebView performance
+engineering (LCP / INP / CLS / TTI) · release and incident follow-up
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mfaisalghozi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaisalghozi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<p align="center"><em>Don't forget to say hi.</em></p>
