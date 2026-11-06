@@ -52,7 +52,7 @@ breakdown, through implementation and code review, to release, monitoring, and i
 
 **DANA Indonesia** · Jakarta, Indonesia · *March 2021 – Present*
 
-**Software Development Engineer**
+**Software Development Engineer**  
 *January 2023 – Present · Full-time*
 
 - Build and maintain the H5 cashier and transaction surfaces used across the DANA app
@@ -61,10 +61,10 @@ breakdown, through implementation and code review, to release, monitoring, and i
 - Work inside an agile SDLC: sprint planning, technical breakdown, code review, release, monitoring
 - Collaborate with Product Design, PM, Backend and QA from discovery to production
 
-**Associate Software Development Engineer**
+**Associate Software Development Engineer**  
 *December 2021 – December 2022 · Full-time*
 
-**Software Engineer Development Intern**
+**Software Engineer Development Intern**  
 *March 2021 – November 2021 · Internship*
 
 ---
