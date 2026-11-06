@@ -40,6 +40,8 @@ breakdown, through implementation and code review, to release, monitoring, and i
   low-end Android devices: asset strategy, caching, and main-thread work
 - **Release quality gates** — Jenkins pipelines and SonarQube checks wired into the delivery flow,
   so quality is enforced by the process rather than by memory
+- **Measured, flag-gated releases** — Mixpanel for product analytics, Harness Split for feature
+  flags, staged rollout and A/B experiments, so a bad change can be turned off without a redeploy
 - **Cross-functional delivery** — daily collaboration with Product Design, PM, Backend and QA,
   translating design intent into implementation that survives real devices and real networks
 
@@ -82,13 +84,22 @@ account. Most of it is older than the payment work above and is kept for the rec
 ## Skills
 
 **Frontend**
-`Vue 3` · `Nuxt` · `React` · `TypeScript` · `JavaScript` · `Vuex` · `HTML5` · `CSS / SCSS / LESS` · `Webpack`
+`Vue 3` (primary) · `Nuxt` · `React` · `TypeScript` · `JavaScript` · `Vuex` · `HTML5` · `CSS / SCSS / LESS` · `Webpack`
 
 **Backend**
 `Node.js` · `Java` · `MySQL` · `MongoDB`
 
+**Experimentation & analytics**
+`Mixpanel` · `Harness Split` — feature flags, staged rollout, A/B experiments
+
 **Delivery & quality**
 `Jenkins` · `SonarQube` · `Docker` · `Git` · `Jest` · `Agile / Scrum` · `Code review` · `Performance budgets`
+
+**AI-assisted development**
+`Cursor` · `Claude` · `Codex` · MCP tooling
+
+**Collaboration**
+`Notion` · Figma · Slack
 
 **Practices**
 Full SDLC ownership · cross-functional collaboration (Design, PM, BE, QA) · WebView performance
